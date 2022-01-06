@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "00CFECBCBA256756E378E4683C4C13C51337C3AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "00CFECBCBA256756E378E4683C4C13C51337C3AA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4EA2431C-9CE4-4505-94FE-450FB4BF4737",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "00CFECBCBA256756E378E4683C4C13C51337C3AA" : "TransScreenShots\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TransScreenShots",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TransScreenShots\/TransScreenShots.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/withviolet\/TransScreenShots.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00CFECBCBA256756E378E4683C4C13C51337C3AA"
+    }
+  ]
+}
