@@ -1,0 +1,2 @@
+# TransScreenShots
+mac
