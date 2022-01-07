@@ -1,0 +1,51 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "b24c778e5ec5c165c7561bf4ec2e3f5ddc358688c73ef4e15fe4d4286443daf7"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/chenxiaohan/StudySpace/TransScreenShots/TransScreenShots/DerivedData/TransScreenShots/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/chenxiaohan/StudySpace/TransScreenShots/TransScreenShots/DerivedData/TransScreenShots/Build/Products",
+      "derivedDataPath" : "/Users/chenxiaohan/StudySpace/TransScreenShots/TransScreenShots/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/chenxiaohan/StudySpace/TransScreenShots/TransScreenShots/DerivedData/TransScreenShots/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/chenxiaohan/StudySpace/TransScreenShots/TransScreenShots/DerivedData/TransScreenShots/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/chenxiaohan/StudySpace/TransScreenShots/TransScreenShots/DerivedData/TransScreenShots/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
