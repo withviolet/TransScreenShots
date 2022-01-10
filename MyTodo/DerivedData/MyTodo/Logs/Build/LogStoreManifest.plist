@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0214E97A-C77F-4977-B417-9A6AEFC3A725</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0214E97A-C77F-4977-B417-9A6AEFC3A725.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663497803.862602</real>
+			<key>timeStoppedRecording</key>
+			<real>663497806.32146597</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>0214E97A-C77F-4977-B417-9A6AEFC3A725</string>
+		</dict>
+		<key>2CF947AE-06C7-4B97-81EE-70526DDDD3A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2CF947AE-06C7-4B97-81EE-70526DDDD3A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663493893.33197999</real>
+			<key>timeStoppedRecording</key>
+			<real>663493894.02634203</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>2CF947AE-06C7-4B97-81EE-70526DDDD3A0</string>
+		</dict>
+		<key>324770D5-3C58-4D74-A1C4-B249F90BA4DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>324770D5-3C58-4D74-A1C4-B249F90BA4DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663500279.24552095</real>
+			<key>timeStoppedRecording</key>
+			<real>663500279.28512001</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>324770D5-3C58-4D74-A1C4-B249F90BA4DC</string>
+		</dict>
+		<key>37C798C3-8278-4EBD-8484-32C6EF3B8F62</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>37C798C3-8278-4EBD-8484-32C6EF3B8F62.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663498794.07248402</real>
+			<key>timeStoppedRecording</key>
+			<real>663498794.90213704</real>
+			<key>title</key>
+			<string>Build MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>37C798C3-8278-4EBD-8484-32C6EF3B8F62</string>
+		</dict>
+		<key>41732AA7-07BF-49AE-B4BD-0A8C5E6186DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41732AA7-07BF-49AE-B4BD-0A8C5E6186DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663499667.18700504</real>
+			<key>timeStoppedRecording</key>
+			<real>663499668.49814403</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>41732AA7-07BF-49AE-B4BD-0A8C5E6186DE</string>
+		</dict>
+		<key>48DFAFD7-B024-4F2F-9A2A-01ED903E2564</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48DFAFD7-B024-4F2F-9A2A-01ED903E2564.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663499940.64328694</real>
+			<key>timeStoppedRecording</key>
+			<real>663499940.68574405</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>48DFAFD7-B024-4F2F-9A2A-01ED903E2564</string>
+		</dict>
+		<key>4FDEE6D8-4229-4010-AC44-3AAF3B65C251</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4FDEE6D8-4229-4010-AC44-3AAF3B65C251.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663498713.18571997</real>
+			<key>timeStoppedRecording</key>
+			<real>663498714.17242706</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>4FDEE6D8-4229-4010-AC44-3AAF3B65C251</string>
+		</dict>
+		<key>8F8619B6-D7C9-4C3F-BE08-6F6052DE2A3B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8F8619B6-D7C9-4C3F-BE08-6F6052DE2A3B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663498731.53770494</real>
+			<key>timeStoppedRecording</key>
+			<real>663498733.15706396</real>
+			<key>title</key>
+			<string>Build MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>8F8619B6-D7C9-4C3F-BE08-6F6052DE2A3B</string>
+		</dict>
+		<key>9A192F39-133E-4427-9838-4F9EB1FD379C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A192F39-133E-4427-9838-4F9EB1FD379C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663500270.50787699</real>
+			<key>timeStoppedRecording</key>
+			<real>663500271.26779199</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>9A192F39-133E-4427-9838-4F9EB1FD379C</string>
+		</dict>
+		<key>BC95A7C3-D029-420D-8B9B-9C510912A1DD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC95A7C3-D029-420D-8B9B-9C510912A1DD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663498736.02354503</real>
+			<key>timeStoppedRecording</key>
+			<real>663498736.98949206</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>BC95A7C3-D029-420D-8B9B-9C510912A1DD</string>
+		</dict>
+		<key>D11F5697-9BB0-4B25-92CE-ED5BB5AEF2B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D11F5697-9BB0-4B25-92CE-ED5BB5AEF2B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663497821.22555602</real>
+			<key>timeStoppedRecording</key>
+			<real>663497821.61926901</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>D11F5697-9BB0-4B25-92CE-ED5BB5AEF2B2</string>
+		</dict>
+		<key>F1937196-9D7C-46BD-8D7F-EBB18022BBC2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1937196-9D7C-46BD-8D7F-EBB18022BBC2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663499408.90641403</real>
+			<key>timeStoppedRecording</key>
+			<real>663499409.55890203</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>F1937196-9D7C-46BD-8D7F-EBB18022BBC2</string>
+		</dict>
+		<key>FB181DEE-41F6-4D42-8C25-44C0D6EDB1D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB181DEE-41F6-4D42-8C25-44C0D6EDB1D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663498522.403965</real>
+			<key>timeStoppedRecording</key>
+			<real>663498523.20653999</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>FB181DEE-41F6-4D42-8C25-44C0D6EDB1D1</string>
+		</dict>
+		<key>FD2C266F-3010-4656-AEA2-12D8F8A19D9D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD2C266F-3010-4656-AEA2-12D8F8A19D9D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews MyTodo</string>
+			<key>timeStartedRecording</key>
+			<real>663494859.320894</real>
+			<key>timeStoppedRecording</key>
+			<real>663494861.69200206</real>
+			<key>title</key>
+			<string>Build for Previews MyTodo</string>
+			<key>uniqueIdentifier</key>
+			<string>FD2C266F-3010-4656-AEA2-12D8F8A19D9D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

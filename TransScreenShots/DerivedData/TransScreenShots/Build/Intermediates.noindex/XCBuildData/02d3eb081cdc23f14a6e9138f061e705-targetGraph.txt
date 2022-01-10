@@ -1,6 +1,0 @@
-Target dependency graph (3 targets)
-TransScreenShots in TransScreenShots
-TransScreenShotsTests in TransScreenShots, depends on:
-TransScreenShots in TransScreenShots (explicit)
-TransScreenShotsUITests in TransScreenShots, depends on:
-TransScreenShots in TransScreenShots (explicit)

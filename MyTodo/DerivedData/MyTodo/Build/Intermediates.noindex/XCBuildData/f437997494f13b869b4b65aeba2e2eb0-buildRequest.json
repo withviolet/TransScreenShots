@@ -1,0 +1,56 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "83dbfc8ad9d4fd5549df5e8b763ac4138fde56f06d7282f7b327c2687b85589f"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/chenxiaohan/StudySpace/MyTodo/DerivedData/MyTodo/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/chenxiaohan/StudySpace/MyTodo/DerivedData/MyTodo/Build/Products",
+      "derivedDataPath" : "/Users/chenxiaohan/StudySpace/MyTodo/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/chenxiaohan/StudySpace/MyTodo/DerivedData/MyTodo/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/chenxiaohan/StudySpace/MyTodo/DerivedData/MyTodo/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/chenxiaohan/StudySpace/MyTodo/DerivedData/MyTodo/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "33CA443F-45D8-499E-9D3F-939C8A2BFD17",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

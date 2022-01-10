@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "5d1a5577a63b02fc12c9d3db5030050a"
+build_time: [1641807470, 551679000]
+inputs:
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/Timepiece/String+Timepiece.swift": [1564710854, 0]
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/TodoList.swift": [1641807470, 486204551]
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/Timepiece/Int+Timepiece.swift": [1564710854, 0]
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/Timepiece/Date+Timepiece.swift": [1564710854, 0]
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/Date.swift": [1641803721, 547669042]
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/ContentView.swift": [1641800987, 736037697]
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/TodoItem.swift": [1641807470, 503867649]
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/Timepiece/DateComponents+Timepiece.swift": [1564710854, 0]
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/Home.swift": [1641802059, 299724153]
+  "/Users/chenxiaohan/StudySpace/MyTodo/MyTodo/MyTodoApp.swift": [1641805003, 836938640]
